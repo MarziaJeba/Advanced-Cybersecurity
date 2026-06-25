@@ -22,3 +22,9 @@ Python 3.11, FastAPI, Uvicorn, SQLAlchemy
 
 ### Database	
 PostgreSQL 15
+
+### Look and feel
+* Nutral color (not too dark/not too light)
+* modern style (slight animated flat design)
+* Mouse Trail Effect
+* 
