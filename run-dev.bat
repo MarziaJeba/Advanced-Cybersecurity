@@ -1,0 +1,6 @@
+@echo off
+set PATH=%PATH%;C:\Program Files\nodejs
+echo Starting CyberGuard development server...
+echo This might take a few seconds...
+npm.cmd run dev
+pause
